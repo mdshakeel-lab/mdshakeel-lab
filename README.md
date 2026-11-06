@@ -68,7 +68,7 @@ A personal repository for learning, experiments, and quick project work.
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/mdshakeel-lab
-- Email: your-email@example.com
+- Email: muhammadshakeelgulamalisha@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Thanks%20for%20visiting!&fontSize=32" />
