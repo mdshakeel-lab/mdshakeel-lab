@@ -8,7 +8,7 @@
   <a href="https://github.com/mdshakeel-lab">
     <img src="https://img.shields.io/badge/GitHub-mdshakeel--lab-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-muhammadshakeelgulamalisha@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
